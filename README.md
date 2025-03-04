@@ -8,7 +8,7 @@ This app was created using HTML, CSS, and JavaScript. Some of the previous code 
 
 ## Technology
 
-This to-do app was genereated using HTML, CSS, JavaScript to create interactive windows and you can also add a task or delete it. It also feattures an optional due date. 
+This to-do app was genereated using HTML, CSS, JavaScript to create interactive windows and you can also add a task or delete it. It also features an optional due date. 
 
 ## Deployment
 
