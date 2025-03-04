@@ -49,6 +49,10 @@
   opacity: 0.6;
 }
 
+.popup__error {
+  color: #ff0000;
+}
+
 .popup__title {
   margin: 0;
   display: inline;

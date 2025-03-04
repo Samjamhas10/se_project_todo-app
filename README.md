@@ -1,14 +1,14 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This is the 7th project of the Software Engineering program at TripleTen. It demonstrates the use of front-end web development skills to build a simple to-do app.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+This app was created using HTML, CSS, and JavaScript. Some of the previous code was refactored.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+This to-do app was genereated using HTML, CSS, JavaScript to create interactive windows and you can also add a task or delete it. It also feattures an optional due date. 
 
 ## Deployment
 
