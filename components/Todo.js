@@ -50,7 +50,7 @@ class Todo {
       })}`;
       
     } else {
-      this._todoDate.textContent = "Invalid Data";
+      this._todoDate.textContent = ""; 
     }
 
     this._generateCheckboxEl();
