@@ -75,13 +75,12 @@ class FormValidator {
 
   // clear error messages and reset input states
   resetValidation() {
-
     this._inputList.forEach((inputElement) => {
       this._hideInputError(inputElement);
     });
 
-    this.toggleButtonState();
     this._formEl.reset();
+    this.toggleButtonState();
   }
 
   // initializes validation across forms by calling _setEventListeners
