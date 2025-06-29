@@ -26,7 +26,7 @@ The goal is to help users manage their daily tasks better with this interactive 
 - HTML: for content structure
 - CSS: for styling and layout
 - JavaScript: for interactivity and task management
-- Objec-oriented programming (OOP) witb ES6 classses
+- Objec-oriented programming (OOP) with ES6 classses
 - Form validation
 - Event handling 
 - BEM methodology for CSS
@@ -39,7 +39,7 @@ This project is live and can be accessed on GitHub Pages:
 
 ## Screenshots
 
-##
+## Main Page
 
 ![Main Screenshot](main.png)
 
