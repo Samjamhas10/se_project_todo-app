@@ -43,11 +43,11 @@ This project is live and can be accessed on GitHub Pages:
 
 ![Main Screenshot](main.png)
 
-## Edit Mode
+## Add Task
 
 ![Add Screenshot](add-task.png)
 
-## View Mode
+## Delete Task
 
 ![Delete Screenshot](delete-task.png)
 
