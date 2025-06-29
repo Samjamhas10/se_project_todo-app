@@ -10,7 +10,7 @@ This project is the 7th and 8th in the Software Engineering program at TripleTen
 - [Screenshots](#screenshots)
 - [Live Demo](#live-demo)
 
-## Description
+## Project Description
 
 This app was created using HTML, CSS, and JavaScript, with some previous code refactored for improvement. The main functionality of this to-do app allows users to:
 
@@ -21,15 +21,19 @@ This app was created using HTML, CSS, and JavaScript, with some previous code re
 
 The goal is to help users manage their daily tasks better with this interactive and simple to do app.
 
-## Technology
+## Project Features
 
 - HTML: for content structure
 - CSS: for styling and layout
 - JavaScript: for interactivity and task management
-- Objec-oriented programming (OOP) with ES6 classses
+- Object-oriented programming (OOP) - with ES6 classses
 - Form validation
-- Event handling 
+- Event handling
 - BEM methodology for CSS
+
+## Plan on improving the project
+
+
 
 ## Deployment
 
@@ -51,6 +55,20 @@ This project is live and can be accessed on GitHub Pages:
 
 ![Delete Screenshot](delete-task.png)
 
+## Deployment Instructions
+
+To run the project locally:
+
+1. Clone the repository:
+   bash
+   git clone https://github.com/samjamhas10/se_project_spots.git
+
+2. Open the index.html file browsers
+
 ## Requirements
 
-- Modern web browsers (Chrome, Firefox, Safari)
+Modern web browsers:
+
+- Chrome
+- Firefox
+- Safari
