@@ -36,7 +36,7 @@ The goal is to help users manage their daily tasks effectively with this interac
 
 ## Plan for improving the project
 
-- Create more functionality by implementing a success message or background animation for when a user completes a task, giving them a sense of accomplishment and encourages them to engage with finishing another task
+- Add more functionality by implementing a success message or background animation for when a user completes a task, giving them a sense of accomplishment and encourages them to engage with finishing another task
 - Create a popup for modifying or adding notes to a specific task
 - Introduce the option for adding certain tasks to be recurring
 
