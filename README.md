@@ -6,9 +6,10 @@ This project is the 7th and 8th in the Software Engineering program at TripleTen
 
 - [Project Description](#project-description)
 - [Project Features](#project-features)
-- [Plan on Improving the Project](#plan-for-improving-the-project)
+- [Plan for Improving the Project](#plan-for-improving-the-project)
 - [Screenshots](#screenshots)
 - [Live Demo](#live-demo)
+- [Project Demo](#project-demo)
 - [Deployment Instructions](#deployment-instructions)
 - [System Requirements](#system-requirements)
 
@@ -37,7 +38,7 @@ The goal is to help users manage their daily tasks effectively with this interac
 ## Plan for improving the project
 
 - Add more functionality by implementing a success message or background animation for when a user completes a task, giving them a sense of accomplishment and encourages them to engage with finishing another task
-- Create a popup for modifying or adding notes to a specific task
+- Create a popup modal for modifying or adding notes to a specific task
 - Introduce the option for adding certain tasks to be recurring
 
 ## Screenshots
@@ -54,12 +55,15 @@ The goal is to help users manage their daily tasks effectively with this interac
 
 ![Delete Screenshot](delete-task.png)
 
-## Live Demo 
+## Live Demo
 
 This project is live and can be accessed on GitHub Pages:
 
 - https://samjamhas10.github.io/se_project_todo-app/
 
+## Project Demo
+
+[Project Demo](https://www.loom.com/share/9b2e1823bfe94ce49e15c3738264f415?sid=9f85c2e0-d13c-466e-a9f1-ee1e1f44c50b)
 
 ## Deployment Instructions
 
