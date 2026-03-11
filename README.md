@@ -63,7 +63,7 @@ This project is live and can be accessed on GitHub Pages:
 
 ## Project Demo
 
-[Project Demo](https://www.loom.com/share/9b2e1823bfe94ce49e15c3738264f415?sid=9f85c2e0-d13c-466e-a9f1-ee1e1f44c50b)
+[Project Demo](https://www.loom.com/share/9b2e1823bfe94ce49e15c3738264f415?sid=336a8339-a3ff-4d1c-aa0e-bb098d4de07a)
 
 ## Deployment Instructions
 
@@ -89,4 +89,4 @@ Modern web browsers:
 - Firefox
 - Safari
 
-No additional installtions needed.
+No additional installations needed.
