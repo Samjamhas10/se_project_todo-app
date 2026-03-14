@@ -1,3 +1,23 @@
+@keyframes explodeSuccess {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.15);
+    box-shadow: 0 0 20px rgba(88, 119, 231, 0.6);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+    box-shadow: none;
+  }
+}
+
+.todo_completed-animation {
+  animation: explodeSuccess 0.6s ease-out;
+}
+
 .todo {
   font-family: Inter, Arial, sans-serif;
   background-color: #f5f5f5;

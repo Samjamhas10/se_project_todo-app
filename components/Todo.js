@@ -19,6 +19,7 @@ class Todo {
 
     this._todoCheckboxEl.addEventListener("change", () => {
       this._toggleCompletion();
+      this._playCompletionAnimation();
       this._handleCheck(this._completed);
     });
   }
@@ -33,6 +34,15 @@ class Todo {
 
   _toggleCompletion = () => {
     this._completed = !this._completed;
+  };
+
+  _playCompletionAnimation = () => {
+    if (this._completed) {
+      this._todoElement.classList.add("todo_completed-animation");
+      setTimeout(() => {
+        this._todoElement.classList.remove("todo_completed-animation");
+      }, 600);
+    }
   };
 
   getView() {
