@@ -96,8 +96,18 @@
   cursor: pointer;
 }
 
+.todo__delete-btn:hover {
+  opacity: 0.8;
+}
+
 .todo__delete-btn::before {
   content: "Delete";
+}
+
+.todo__delete-btn:focus-visible {
+  outline: 3px solid #5877e7;
+  outline-offset: 3px;
+  border-radius: 6px;
 }
 
 @media screen and (max-width: 630px) {
