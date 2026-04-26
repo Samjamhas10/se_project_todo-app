@@ -11,8 +11,15 @@ class Todo {
   _setEventListeners() {
     this._todoDeleteBtn = this._todoElement.querySelector(".todo__delete-btn");
     this._todoCheckboxEl = this._todoElement.querySelector(".todo__completed");
+    this._todoDeleteBtn.setAttribute(
+      "aria-label",
+      `Delete todo: ${this._data.name}`
+    );
 
     this._todoDeleteBtn.addEventListener("click", () => {
+      const ok = window.confirm("Delete this todo?");
+      if (!ok) return;
+
       this._todoElement.remove();
       this._handleDelete(this._completed);
     });
