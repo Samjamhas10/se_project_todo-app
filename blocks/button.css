@@ -1,14 +1,25 @@
 .button {
   background-color: #5877e7;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 14px;
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 600;
+  transition: background-color 0.2s ease, transform 0.05s ease,
+    box-shadow 0.2s ease;
+  box-shadow: 0 6px 16px rgba(88, 119, 231, 0.25);
 }
 
 .button:hover {
   background-color: #4460c4;
   cursor: pointer;
+  box-shadow: 0 10px 22px rgba(88, 119, 231, 0.3);
 }
 
 .button:active {
   background-color: #2a45a3;
+  transform: translateY(1px);
 }
 
 .button:focus-visible {

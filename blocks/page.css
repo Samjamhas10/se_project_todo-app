@@ -22,7 +22,12 @@
 }
 
 @media screen and (max-width: 630px) {
+  .page {
+    padding: 12px;
+  }
+
   .page__content {
-    padding: 20px 12px;
+    padding: 16px 12px;
+    border-radius: 12px;
   }
 }
