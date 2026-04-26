@@ -3,7 +3,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
   position: fixed;
   top: 0;
   left: 0;
@@ -43,10 +45,18 @@
   top: 28px;
   right: 20px;
   transition: visibility 0s, opacity 0.3s;
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.06);
 }
 
 .popup__close:hover {
-  opacity: 0.6;
+  opacity: 0.8;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.popup__close:focus-visible {
+  outline: 3px solid #5877e7;
+  outline-offset: 2px;
 }
 
 .popup__error {
